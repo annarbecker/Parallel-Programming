@@ -1,2 +1,2 @@
-# parallel_programming
-Coursera: Parallel Programming in Java
+# Parallel Programming
+Coursera: Parallel Programming in Java by Rice University
